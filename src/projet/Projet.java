@@ -5,7 +5,7 @@ public class Projet {
     public static void main(String[] args) {
 
         Client c = new Client("rayen", "ghali");
-        Chef ch = new Chef("a", "b");
+        Chef ch = new Chef("Burak", "CZN");
         Serveur s = new Serveur("farah", "hamraoui");
 
         standard menu1;
